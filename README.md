@@ -1,6 +1,6 @@
 # C-Big-Integer-Library
 
-##Matt McCutchen's C++ Big Integer Library
+## Matt McCutchen's C++ Big Integer Library
 
 This library has been developed solely by Matt McCutchen.
 Developer's website: [https://mattmccutchen.net]
