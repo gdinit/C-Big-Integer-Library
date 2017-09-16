@@ -3,9 +3,12 @@
 ## Matt McCutchen's C++ Big Integer Library
 
 This library has been developed solely by Matt McCutchen.
-Developer's website: [https://mattmccutchen.net]
-Home of the project (at developer's website): [https://mattmccutchen.net/bigint/]
 Please see the original 'README' file for details.
+
+Developer's website: [https://mattmccutchen.net]
+
+Home of the project (at developer's website): [https://mattmccutchen.net/bigint/]
+
 
 I (gdinit) am only uploading this Public Domain library on GitHub with the 
 intention of:
