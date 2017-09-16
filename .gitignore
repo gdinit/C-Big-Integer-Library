@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# Extras from Matt McCutchen's .gitignore
+*.o
+sample
+testsuite
+testsuite.expected
+testsuite.out
+testsuite.err
